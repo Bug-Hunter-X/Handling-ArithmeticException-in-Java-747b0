@@ -1,0 +1,1 @@
+This example demonstrates an ArithmeticException that occurs when dividing by zero in Java.  The code includes a try-catch block to handle the exception and prevent program termination.  The solution showcases best practices for handling exceptions, ensuring the program's robustness and graceful handling of unexpected events.
